@@ -1,7 +1,5 @@
 # 📚 Project Title: Weather App 🌦️
 
-By: [@anuj_dwivedi](https://linktr.ee/anuj_dwivedi)
-
 ## Project Description 🚀
 
 This project is a weather application built with FastAPI and Python. It allows users to enter a location and get the current weather information for that location. Users can also choose to use their current location through the geolocation feature.
@@ -29,13 +27,3 @@ To run the application, follow these steps:
 ## Skills Gained 🤓
 
 Through this project, I gained experience in web development and working with APIs. I also improved my skills in Python programming and using FastAPI.
-
-## Links 🔗
-
-[LinkTree](https://linktr.ee/anuj_dwivedi)
-[LinkedIn](https://www.linkedin.com/in/anuj-dwivedi-1352831b1/)
-[Instagram](https://www.instagram.com/anuj_dwvd_0/)
-
-## License 📜
-
-This project is licensed under the MIT License. Feel free to customize this template as needed, and don't forget to add your own personal touches to make it unique!
